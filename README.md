@@ -178,7 +178,9 @@ Prinimaya prorocheskiy god v 360 dney:
 
 **3,5 × 360 = 1260 dne-let**
 
-Otkroveniye 11:2 upominayet 42 mesyatsa, a Otkroveniye 12:6 — 1260 dney. Pri mesyatsakh po 30 dney oba vyrazheniya stanovyatsya ekvivalentnymi:
+Otkroveniye 11:2 upominayet 42 mesyatsa, a Otkroveniye 12:6 — 1260 dney. 
+
+Pri mesyatsakh po 30 dney oba vyrazheniya stanovyatsya ekvivalentnymi:
 
 **42 × 30 = 1260 dney**
 
